@@ -1,10 +1,10 @@
-<strong>關於母項目：</strong></br>
+# 關於母項目
 
 ● 新增項目名稱、預算
 
 ![image](https://github.com/user-attachments/assets/934677d2-deff-47f3-9741-480cff790e9b)
 
-<strong>關於子項目：</strong></br>
+# 關於子項目
 
 ● 超過預算50%時，"已使用預算: 0.00%"的字體改為紅色。</br>
 
